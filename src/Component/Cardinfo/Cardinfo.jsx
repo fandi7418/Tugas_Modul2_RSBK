@@ -1,7 +1,5 @@
 import React from 'react'
 import styled from 'styled-components'
-//const defaultImg = "https://puu.sh/GO701.png";
-//const chamdanImg = "https://puu.sh/GO6Yy.png"
 
 const Container = styled.div`
 background-color: #F5F5F5;
